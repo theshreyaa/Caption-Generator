@@ -4,10 +4,10 @@ While humans can interpret these images without detailed captions, machines requ
 
 This project aims to develop an end-to-end solution for generating descriptive captions for images using deep learning techniques.
 
-demo : https://the-caption-generator.streamlit.app/
+Demo : https://the-caption-generator.streamlit.app/
 
 ## Dataset
-- flickr dataset link :- https://www.kaggle.com/datasets/adityajn105/flickr8k
+- Flickr dataset link :- https://www.kaggle.com/datasets/adityajn105/flickr8k
 - I used the Flickr8k Dataset, which contains 8092 photographs and text descriptions. Dataset contain 5 caption for each Image
 
 ## Methodology for Image Captioning
